@@ -1,1 +1,3 @@
-# web_scraping_challenge
+# Web Scraping Challenge
+
+In this project, I tackled a comprehensive web-scraping and data analysis challenge focusing on Mars news and weather data. Using Python, Splinter, and Beautiful Soup, I scraped titles and preview text from Mars news articles, storing the results in a structured format. For the weather data analysis, I navigated to a specific website to extract Mars temperature and atmospheric data, organizing it into a Pandas DataFrame. This allowed me to analyze Mars' weather patterns, including identifying the coldest and warmest months and understanding atmospheric pressure changes. I also estimated the length of a Martian year in terrestrial days and visualized these findings through various data plots. My work culminated in exporting the analyzed data to a CSV file, contributing to our understanding of Martian climate dynamics.
